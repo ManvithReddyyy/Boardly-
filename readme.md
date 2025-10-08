@@ -1,5 +1,10 @@
 # 🎨 Boardly
 
+![Status](https://img.shields.io/badge/status-under%20development-orange)
+![React](https://img.shields.io/badge/React-18-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green)
+![Socket.io](https://img.shields.io/badge/Socket.io-Real--time-black)
+
 A real-time collaborative whiteboard where you can draw and type together with others.
 
 ## ✨ Features
@@ -15,9 +20,12 @@ A real-time collaborative whiteboard where you can draw and type together with o
 
 React • Node.js • Socket.io • Tailwind CSS
 
-## 📸 Demo
+## 🚧 Coming Soon
 
-Try it live or check out the screenshots!
+- Eraser tool
+- Undo/Redo
+- Shape tools
+- Save boards
 
 ---
 
