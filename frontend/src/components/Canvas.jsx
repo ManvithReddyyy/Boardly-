@@ -1,6 +1,6 @@
 import { useRef, useEffect, useState } from 'react';
 import { Download, Trash2, Users, Type } from 'lucide-react';
-
+//code
 const Canvas = ({ socket, boardId, username }) => {
   const canvasRef = useRef(null);
   const [isDrawing, setIsDrawing] = useState(false);
